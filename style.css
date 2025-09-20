@@ -98,6 +98,6 @@ body {
 
 /* letter up and down animation */
 .wrapper:hover .letter {
-    transform: translateY(-50px);
+    transform: translateY(-80px);
     transition-delay: 0.5s;
 }
